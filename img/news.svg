@@ -1,0 +1,18 @@
+<svg width="32.388062" height="32.388062" viewBox="0 0 32.3881 32.3881" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_60">
+			<rect id="Режим детального просмотра" width="32.388058" height="32.388058" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip2_60)">
+		<rect id="rect" x="4.048462" y="4.048523" rx="3.000000" width="24.291048" height="24.291048" stroke="#808080" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+		<rect id="rect" x="8.771729" y="8.771759" width="5.398010" height="5.398010" stroke="#808080" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+		<path id="path" d="M18.2188 8.77179L23.6169 8.77179" stroke="#808080" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="path" d="M18.2188 13.4951L23.6169 13.4951" stroke="#808080" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="path" d="M8.77222 18.8931L23.6171 18.8931" stroke="#808080" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="path" d="M8.77222 23.6163L23.6171 23.6163" stroke="#808080" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>

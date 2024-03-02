@@ -1,0 +1,18 @@
+<svg width="32.388062" height="32.388062" viewBox="0 0 32.3881 32.3881" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_51">
+			<rect id="Много пользователей" width="32.388058" height="32.388058" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip2_51)">
+		<circle id="circle" cx="9.446533" cy="19.567780" r="3.373756" stroke="#808080" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+		<circle id="circle" cx="22.941528" cy="19.567780" r="3.373756" stroke="#808080" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+		<circle id="circle" cx="16.193970" cy="6.072754" r="3.373756" stroke="#808080" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+		<path id="path" d="M16.194 29.689C16.194 25.9625 13.173 22.9415 9.44653 22.9415C5.71997 22.9415 2.69897 25.9625 2.69897 29.689" stroke="#808080" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="path" d="M29.689 29.689C29.689 25.9625 26.668 22.9415 22.9415 22.9415C19.215 22.9415 16.194 25.9625 16.194 29.689" stroke="#808080" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="path" d="M22.9415 16.194C22.9415 12.4675 19.9205 9.44653 16.1941 9.44653C12.4675 9.44653 9.44653 12.4675 9.44653 16.194" stroke="#808080" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>
